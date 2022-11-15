@@ -1,0 +1,9 @@
+*.pyc
+large-data/*
+result.png
+data/*
+*.eps
+*.pgf
+*.swp
+Data/*
+hyperparameter.py
